@@ -1,8 +1,11 @@
-const firstName: string = 'ณเดช'
-let y: number = 10
-y = 20
-let อยากกลับบ้าน: boolean = false
+var x: number = 10 // var
 
-console.log(firstName)
-console.log(y)
-console.log(อยากกลับบ้าน)
+x = 20
+
+const pi: number = 3.14 // const
+
+let y: boolean = true
+
+let hello: string = 'Hi'
+
+hello = 'Hello'
