@@ -43,7 +43,8 @@ function grade(homework: number, midterm: number, final: number) {
     }
 }
 
-console.log(grade(100, 100, 100))
 
+
+console.log(grade(100, 100, 100))
 
 
